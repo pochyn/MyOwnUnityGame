@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 356d3c1ae9f574765b8473dea0ecc149
+timeCreated: 1498067517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skyzhi PERSONAL USE ONLY
+  fontNames:
+  - Skyzhi PERSONAL USE ONLY
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
